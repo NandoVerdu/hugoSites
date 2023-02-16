@@ -32,20 +32,20 @@ El ApS Polseres Solidàries ens dona el marc d'actuació docent per a introduir 
 
 ---
 
-## Chef Consulting
+## Galeria de fotos
 
-Did you see the picture above? I can show you how to go from
+
 
 ![Let us get started on a clean slate](images/foto2.jpg)
 
-to
+
 
 ![Let us get started on a clean slate](images/foto3.jpg)
 
-in estimated seconds.
+
 
 ---
 
-Want to learn more about my services?
+## Document instructiu
 
-Check out [this page](services) I created. It carries a lot more details...
+Per a més detalls sobre els documents necessàris per a dur a terme aquest ApS pots consultar el següent [pdf](https://drive.google.com/uc?export=download&id=14R-J_z3HAW7t-FMZKF24UpUgNkeS_6Uz).
